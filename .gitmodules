@@ -1,0 +1,3 @@
+[submodule "submodule-workshop1"]
+	path = submodule-workshop1
+	url = https://github.com/khatripp/submodule-workshop1.git
